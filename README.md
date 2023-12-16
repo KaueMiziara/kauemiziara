@@ -6,7 +6,14 @@
 
 ###
 
-<p align="left">Software Developer<br>Computer Engineer (Undergraduate)<br><br>- Computational Clusters, HPC<br>- Embedded Systems<br>- RESTful APIs<br>- Native Android<br>- Desktop Applications</p>
+<p align="left">Software Developer<br>Computer Engineer (Undergraduate)<br>
+  
+  - Computational Clusters, HPC<br>
+  - Embedded Systems<br>
+  - RESTful APIs<br>
+  - Native Android<br>
+  - Desktop Applications
+  </p>
 
 ###
 
