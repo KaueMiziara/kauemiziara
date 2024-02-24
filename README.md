@@ -101,6 +101,8 @@
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="25" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="25" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white&style=for-the-badge" height="25" alt="quarkus logo"  />
 </div>
 
 ###
