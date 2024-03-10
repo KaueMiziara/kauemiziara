@@ -12,7 +12,9 @@
   - Native Android<br>
   - Hybrid Mobile<br>
   - Embedded Systems<br>
-  - Desktop Applications
+  - Desktop Applications<br>
+  - High-Performance Computing<br>
+  - Linux-Based Operating Systems
   </p>
 
 ###
