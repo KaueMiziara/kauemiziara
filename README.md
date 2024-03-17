@@ -11,10 +11,17 @@
   - RESTful APIs<br>
   - Native Android<br>
   - Hybrid Mobile<br>
-  - Embedded Systems<br>
-  - Desktop Applications<br>
+  - Low-Level Systems<br>
   - High-Performance Computing<br>
   - Linux-Based Operating Systems
+  </p>
+
+  
+<p align="left"><i>Currently studying:</i><br>
+  
+  - Quantum Computing
+  - Quantum Algorithms
+  - IBM Qiskit
   </p>
 
 ###
