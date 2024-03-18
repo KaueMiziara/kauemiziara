@@ -20,7 +20,6 @@
 <p align="left"><i>Currently studying:</i><br>
   
   - Quantum Computing
-  - Quantum Algorithms
   - IBM Qiskit
   </p>
 
