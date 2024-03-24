@@ -16,13 +16,6 @@
   - Linux-Based Operating Systems
   </p>
 
-  
-<p align="left"><i>Currently studying:</i><br>
-  
-  - Quantum Computing
-  - IBM Qiskit
-  </p>
-
 ###
 
 <div align="left">
@@ -48,7 +41,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" height="40" alt="julia logo"  />
   <img width="12" />
@@ -97,6 +90,8 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white&style=for-the-badge" height="30" alt="qiskit logo"  />
 </div>
 
 ###
