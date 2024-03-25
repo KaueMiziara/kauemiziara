@@ -87,8 +87,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="30" alt="dart logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white&style=for-the-badge" height="30" alt="qiskit logo"  />
 </div>
 
