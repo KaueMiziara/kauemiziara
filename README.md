@@ -88,6 +88,8 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white&style=for-the-badge" height="30" alt="qiskit logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white&style=for-the-badge" height="30" alt="quarkus logo"  />
 </div>
 
 ###
@@ -98,8 +100,6 @@
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="25" alt="azure logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="25" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white&style=for-the-badge" height="25" alt="quarkus logo"  />
 </div>
 
 ###
