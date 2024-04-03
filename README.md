@@ -13,6 +13,7 @@
   - Hybrid Mobile<br>
   - Low-Level Systems<br>
   - High-Performance Computing<br>
+  - Quantum Computing<br>
   - Linux-Based Operating Systems
   </p>
 
