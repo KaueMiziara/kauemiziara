@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white&style=for-the-badge" height="30" alt="qiskit logo"  />
 </div>
 
 ###
@@ -87,8 +89,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white&style=for-the-badge" height="30" alt="qiskit logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white&style=for-the-badge" height="30" alt="quarkus logo"  />
 </div>
