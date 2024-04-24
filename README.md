@@ -12,8 +12,8 @@
   - Native Android<br>
   - Hybrid Mobile<br>
   - Low-Level Systems<br>
-  - High-Performance Computing<br>
   - Quantum Computing<br>
+  - High-Performance Computing<br>
   - Linux-Based Operating Systems
   </p>
 
