@@ -11,7 +11,6 @@
   - RESTful APIs<br>
   - Native Android<br>
   - Hybrid Mobile<br>
-  - Low-Level Systems<br>
   - Quantum Computing<br>
   - High-Performance Computing<br>
   - Linux-Based Operating Systems
@@ -32,21 +31,28 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="38" alt="c logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="38" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="40" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="38" alt="rust logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="38" alt="java logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="38" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" height="40" alt="julia logo"  />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" height="38" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" height="38" alt="julia logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="38" alt="python logo"  />
 </div>
 
 ###
@@ -75,28 +81,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-</div>
-
-###
-
-<h4 align="center">Languages and Tools I'm (currently/intersted in) learning</h4>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white&style=for-the-badge" height="30" alt="quarkus logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="25" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="25" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="25" alt="googlecloud logo"  />
 </div>
 
 ###
