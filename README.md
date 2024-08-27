@@ -7,13 +7,11 @@
 ###
 
 <p align="left">Software Developer<br>Computer Engineer (Undergraduate)<br>
-  
-  - RESTful APIs<br>
+
+  - Backend<br>
   - Native Android<br>
   - Hybrid Mobile<br>
   - Quantum Computing<br>
-  - High-Performance Computing<br>
-  - Linux-Based Operating Systems
   </p>
 
 ###
