@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Kauê Miziara from Brazil<br><br>- Backend<br>- Native Android<br>- Quantum Computing</p>
+<p align="left">I'm Kauê Miziara from Brazil<br><br>- Backend<br>- Native Android<br>- Quantum Computing<br>- Qiskit Advocate</p>
 
 ###
 
